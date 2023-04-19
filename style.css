@@ -173,7 +173,7 @@ h3 {
 .page2 {
     width: 100%;
     height: 100%;
-    background-image: url(images/car.jpg);
+    background-image: url(images/food.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -350,6 +350,10 @@ nav, ul, li {
     margin-top: -4px;
     text-align: center;
 }
+.tarrif-content .tarrif-img {
+    border: 1px solid #c0c0c0;
+    border-radius: 50px;
+}
 .tarrif-content, .tarrif1, p {
     font-size: 12px;
 }
@@ -372,7 +376,7 @@ nav, ul, li {
 
 /* Page5 */
 .page5 {
-    background-image: url(/E-Commerce/images/sky.jpg);
+    background-image: url(images/sky.jpg);
     width: 100%;
     height: 100%;
     background-size: cover;
